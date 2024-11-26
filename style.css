@@ -1,0 +1,15 @@
+.bordercolor{
+    border: 5px solid transparent;
+    padding: 5px 10px;
+    border-radius: 7px;
+    background: linear-gradient(white, white) padding-box, linear-gradient(120deg,blue, aqua) border-box;
+    
+}
+
+.bordercolor2{
+    border: 5px solid transparent;
+    padding: 5px 10px;
+    border-radius: 7px;
+    background: linear-gradient(white, white) padding-box, linear-gradient(120deg,green, aqua) border-box;
+}
+
